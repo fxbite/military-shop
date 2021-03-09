@@ -1,0 +1,4 @@
+.btn:not(:disabled):not(.disabled) {
+  border-radius: 5rem;
+}
+
