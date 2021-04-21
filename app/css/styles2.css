@@ -1,0 +1,11 @@
+.container.shadow {
+  border-radius: 20px;
+}
+
+a:hover {
+   text-decoration: underline;
+}
+
+.animated:hover{
+  background-color: #282828;
+}

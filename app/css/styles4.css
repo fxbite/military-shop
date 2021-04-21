@@ -1,0 +1,21 @@
+@media (min-width: 361px) and (max-width: 575px) {
+  .d-flex.float-left.d-sm-flex.d-xl-flex.align-items-center.justify-content-xl-end.align-items-xl-center {
+    font-size: 15px;
+    display: flex;
+    flex-direction: row-reverse;
+  }
+}
+
+@media (min-width: 300px) {
+  .d-flex.float-left.d-sm-flex.d-md-flex.d-xl-flex.align-items-center.justify-content-sm-end.justify-content-xl-end.align-items-xl-center {
+    font-size: 15px;
+  }
+}
+
+.fa.fa-search:hover{
+   color: black;
+}
+
+.fa.fa-shopping-cart:hover{
+   color:black;
+}
