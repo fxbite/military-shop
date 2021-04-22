@@ -16,7 +16,7 @@
     <link rel="icon" href="..\app\img\person-on-a-bridge-near-a-lake-747964.ico">
 </head>
 
-<body style="background-image: url(&quot;../app/img/classic-blue-coupe-die-cast-model-1037995.jpg&quot;);background-position: center;background-size: cover;background-repeat: no-repeat;">
+<body style="background-image: url(&quot;../app/img/classic-blue-coupe-die-cast-model-1037995.jpg&quot;);background-position: center;background-size: cover;background-repeat: no-repeat; background-attachment: fixed;">
     <div class="container" style="width: 332px;margin-top: 120px;">
         <form class="text-center" style="width: 300px;" action="register_function.php" method="POST">
             <label style="font-family: Montserrat, sans-serif;font-weight: bold;font-size: 20px;margin-bottom: 20px;color: #212529;">Register admin account</label>

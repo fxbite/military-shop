@@ -1,7 +1,3 @@
-<?php 
-    
-?>
-
 <!DOCTYPE html>
 <html>
 
@@ -20,25 +16,10 @@
 </head>
 
 <body>
-    <?php include 'require/header.php' ?>
-     <?php
-       require 'require/home.php';
-     ?>
-    <div class="footer-basic" style="background-color: rgb(255,255,255);">
-        <footer>
-            <div class="social"><a href="#"><i class="icon ion-social-instagram"></i></a><a href="#"><i class="icon ion-social-twitter"></i></a><a href="#"><i class="icon ion-social-facebook"></i></a></div>
-            <ul class="list-inline">
-                <li class="list-inline-item"><a href="#">Home</a></li>
-                <li class="list-inline-item"><a href="#">Services</a></li>
-                <li class="list-inline-item"><a href="#">About</a></li>
-                <li class="list-inline-item"><a href="#">Terms</a></li>
-                <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
-            </ul>
-            <p class="copyright">MilitaryShop © 2020</p>
-        </footer>
-    </div>
+    <?php require 'require/header.php';?>
+    <?php require 'require/home.php';?>
+    <?php require 'require/footer.php';?>      
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
 </body>
-
 </html>

@@ -16,7 +16,7 @@
     <link rel="icon" href="app\img\25660338_566580303688184_2665468988380454003_n.ico">
 </head>
 
-<body style="background-image: url(&quot;app/img/classic-blue-coupe-die-cast-model-1037995.jpg&quot;);background-position: center;background-size: cover;background-repeat: no-repeat;">
+<body style="background-image: url(&quot;app/img/classic-blue-coupe-die-cast-model-1037995.jpg&quot;);background-position: center;background-size: cover;background-repeat: no-repeat; background-attachment: fixed;">
     <div class="container" style="width: 332px;margin-top: 120px;">
         <form class="text-center" style="width: 300px;" action="register_function_user.php" method="POST">
             <label style="font-family: Montserrat, sans-serif;font-weight: bold;font-size: 20px;margin-bottom: 20px;color: #212529;">Register user account</label>
